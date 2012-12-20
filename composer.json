@@ -1,8 +1,8 @@
 {
-    "name": "mouf/utils.common.formatters",
+    "name": "mouf/modules.paypal-integration",
     "description": "This package provides a set of classes that can be used to easily integrate with Paypal instant payment, Paypal subscriptions and IPN mechanism.",
     "keywords": ["formatter", "mouf", "format"],
-    "homepage": "https://github.com/thecodingmachine/utils.common.formatters",
+    "homepage": "https://github.com/thecodingmachine/modules.paypal-integration",
     "type": "mouf-library",
     "license": "MIT",
     "authors": [
